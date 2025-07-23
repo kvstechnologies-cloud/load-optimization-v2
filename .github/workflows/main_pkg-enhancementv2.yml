@@ -52,4 +52,4 @@ jobs:
           app-name: 'pkg-enhancementV2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58CAA9C8DCE142C8AE5468D976BECC05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F835D8EF5814053A9BCF130D4088F90 }}
