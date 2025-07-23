@@ -1,0 +1,11 @@
+Plant,Mill,Date,DayOfWeek,TruckNumber,SKU,NumberOfRolls,Tons
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_6b86b273,SKU_c154e723,2,6
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_6b86b273,SKU_57458d38,3,9
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_6b86b273,SKU_22be846e,2,6
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_d4735e3a,SKU_3cc82521,5,15
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_d4735e3a,SKU_fa4ad148,3,9
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_4e074085,SKU_c154e723,2,6
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_4e074085,SKU_57458d38,3,9
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_4e074085,SKU_22be846e,2,6
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_4b227777,SKU_3cc82521,3,9
+Plant_12d99b28,Mill_e272ad6a,2025-07-03,Thursday,Truck_4b227777,SKU_fa4ad148,5,15
